@@ -1,0 +1,14 @@
+{
+    "name": "Sitemap Generator",
+    "version": "1.0.0",
+    "author": "Marijuano Dev",
+    "description": "Genera un sitemap.xml analizando las URL de la web.",
+    "website": "https://tuweb.com",
+    "require_version": "1.9.0",
+    "tested_version": "1.9.0",
+    "last_update": "21/08/2024",
+    "type": "plugin",
+    "target": "admin",
+    "require_login": true
+  }
+  

@@ -1,0 +1,13 @@
+{
+	"name": "Google Analytics",
+	"version": "1.0.0",
+	"author": "Marijuano Dev",
+	"description": "Plugin para insertar el código de Google Analytics.",
+	"website": "https://tuwebsite.com",
+	"require_version": "1.9.0",
+	"tested_version": "1.9.0",
+	"last_update": "20/08/2024",
+	"type": "plugin",
+	"target": "index",
+	"require_login": false
+}

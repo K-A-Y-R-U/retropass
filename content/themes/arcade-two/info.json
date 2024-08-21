@@ -1,0 +1,11 @@
+{
+	"name": "Arcade Two",
+	"version": "1.0.0",
+	"author": "CloudArcade",
+	"description": "Arcade Two Theme",
+	"website": "https://cloudarcade.net",
+	"release_date": "03/01/2023",
+	"changelog": "Initial release.",
+	"type":"theme",
+	"target_version": "1.5.3"
+}

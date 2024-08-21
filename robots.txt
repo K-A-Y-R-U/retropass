@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+Disallow: /includes/
+Disallow: /classes/
+Disallow: /admin/
+Disallow: /vendor/
+Disallow: /splash/
+Disallow: /full/
+Sitemap: https://retropass.online/sitemap.xml
